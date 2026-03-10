@@ -1,0 +1,6 @@
+node_modules/
+dist/
+linux-rnnoise/
+bin/
+backend/out/
+*.zip

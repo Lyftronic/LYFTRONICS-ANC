@@ -1,0 +1,11 @@
+{
+  "name": "lyftronics-anc",
+  "author": "Lyftronics",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["audio", "root"],
+    "description": "Active Noise Cancellation via PipeWire and RNNoise.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
